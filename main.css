@@ -1,0 +1,35 @@
+body {
+    background-color: #b8efe0;
+}
+
+h1 {
+    color: #880000;
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+img {
+    max-width: 100%;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
